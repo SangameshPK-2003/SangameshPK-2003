@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangameshpk-2003&label=Profile%20views&color=0e75b6&style=flat" alt="sangameshpk-2003" /> </p>
 
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Back-End Development**
 
-- 💬 Ask me about **HTML,CSS and JavaScript**
+- 💬 Ask me about **Front-End Development**
 
 - 📫 How to reach me **kardegoudasangamesh@gmail.com**
 
