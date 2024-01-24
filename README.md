@@ -13,6 +13,7 @@
 - 📫 How to reach me **kardegoudasangamesh@gmail.com**
 
 - ⚡ Fun fact **When boredom strikes, I transform into a code ninja!**
+- 👨‍💻 All of my projects are available at <a href="https://sangameshpk-2003.github.io/Sangamesh-Portfolio/">Portfolio</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangamesh-kardegouda-ab3751280/) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/S_P_Kardegouda) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kardegouda_sangamesh/)  &nbsp; [![HackerRank](https://img.shields.io/badge/HackerRank-%231DA1F2.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kardegoudasanga1)
