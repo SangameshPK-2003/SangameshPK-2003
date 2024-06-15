@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Sangamesh Kardegouda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="400" align="right">
