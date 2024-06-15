@@ -1,4 +1,4 @@
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+![MasterHead](https://codilime.com/static/354674827088fb7685eb981f2055ce71/header-backend-tools.png)
 <h1 align="center">Hi 👋, I'm Sangamesh Kardegouda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="400" align="right">
