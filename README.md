@@ -32,9 +32,6 @@
     <img src="https://img.shields.io/badge/java-%23FFA500.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="max-width: 100%;">
 </a>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="max-width: 100%;">
-</a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/tkinter-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/tkinter-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" style="max-width: 100%;">
