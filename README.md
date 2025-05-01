@@ -1,4 +1,4 @@
-![MasterHead](https://codilime.com/static/354674827088fb7685eb981f2055ce71/header-backend-tools.png)
+![MasterHead](https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png)
 <h1 align="center">Hi 👋, I'm Sangamesh Kardegouda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="400" align="right">
