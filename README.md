@@ -1,14 +1,14 @@
 ![MasterHead](https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png)
 <h1 align="center">Hi 👋, I'm Sangamesh Kardegouda</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Tester from India</h3>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangameshpk-2003&label=Profile%20views&color=0e75b6&style=flat" alt="sangameshpk-2003" /> </p>
 
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 I’m currently learning **Automation Testing**
 
-- 💬 Ask me about **HTML, CSS and JS**
+- 💬 Ask me about **Manual Testing**
 
 - 📫 How to reach me **kardegoudasangamesh@gmail.com**
 
