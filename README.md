@@ -38,9 +38,19 @@
 </a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SangameshPK-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=SangameshPK-2003&theme=dark&hide_border=false)<br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api?username=SangameshPK-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangameshPK-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+
+<img src="https://streak-stats.demolab.com/?user=SangameshPK-2003&theme=dark&hide_border=false" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SangameshPK-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+
+</p>
+
 
 
 
