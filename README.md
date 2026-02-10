@@ -1,56 +1,91 @@
-![MasterHead](https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png)
-<h1 align="center">Hi 👋, I'm Sangamesh Kardegouda</h1>
-<h3 align="center">A passionate Software Tester from India</h3>
-<img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="400" align="right">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangameshpk-2003&label=Profile%20views&color=0e75b6&style=flat" alt="sangameshpk-2003" /> </p>
-
-
-- 🌱 I’m currently learning **Automation Testing**
-
-- 💬 Ask me about **Manual Testing**
-
-- 📫 How to reach me **kardegoudasangamesh@gmail.com**
-
-- ⚡ Fun fact **When boredom strikes, I transform into a code ninja!**
-- 👨‍💻 All of my projects are available at [Portfolio](https://sangameshpk-2003.github.io/Portfolio/)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangamesh-kardegouda-ab3751280/) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/S_P_Kardegouda) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kardegouda_sangamesh/)  &nbsp; [![HackerRank](https://img.shields.io/badge/HackerRank-%231DA1F2.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kardegoudasanga1)
-
-
-
-# 💻 Languages and Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) &nbsp;&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) &nbsp;&nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) &nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) &nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) &nbsp;&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) &nbsp;&nbsp; ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) &nbsp;&nbsp;  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) &nbsp;&nbsp;![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) &nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aa27daee1066bff6351869f2fc9c0cc37f5a6b2f6d97dc66e5e9b7a8f7fc5e2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333731373541312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465">
-<img src="https://img.shields.io/badge/bootstrap-%2371175A1.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/bootstrap-%2371175A1.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;">
-</a>
-
-
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/java-%23FFA500.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/java-%23FFA500.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="max-width: 100%;">
-</a>
-
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/tkinter-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/tkinter-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" style="max-width: 100%;">
-</a>
-
-# 📊 GitHub Stats:
+<h1 align="center">Hi 👋, I'm Sangamesh</h1>
+<h3 align="center">QA Engineer | Automation Testing | Playwright • Python</h3>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangameshPK-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-
-<img src="https://streak-stats.demolab.com/?user=SangameshPK-2003&theme=dark&hide_border=false" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SangameshPK-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;Playwright+%2B+Python+Specialist;Selenium+%7C+API+%7C+Performance+Testing;Building+Quality+Driven+Software" />
 </p>
 
+---
 
+## 🧑‍💻 About Me
 
+- 🎓 **BCA Graduate – 2024**
+- 🧪 Focused on **Software Testing & QA Automation**
+- 🤖 Currently mastering **Playwright with Python**
+- 📈 Goal → Become a **Top-tier Automation Engineer**
+- 📍 Based in **Bengaluru, India**
 
+---
+
+## 🛠️ Tech Stack
+
+### 🔍 Testing
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-0A66C2?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge)
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SangameshPK-2003&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SangameshPK-2003&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Flipkart Add-To-Cart Automation
+- Selenium + TestNG + Page Object Model  
+- Includes **manual test cases & defect report**
+
+### 🎭 Playwright Python Automation Suite
+- End-to-end UI automation  
+- Fixtures, assertions, HTML reporting  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SangameshPK-2003/SangameshPK-2003/output/snake.svg" />
+</p>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/sangamesh-kardegouda-ab3751280/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="kardegoudasangamesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SangameshPK-2003&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<h3 align="center">🔥 Consistency beats talent. Keep building.</h3>
