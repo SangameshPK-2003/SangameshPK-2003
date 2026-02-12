@@ -62,13 +62,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SangameshPK-2003/SangameshPK-2003/output/snake.svg" />
-</p>
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
