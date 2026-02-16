@@ -52,7 +52,10 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 Flipkart Add-To-Cart Automation
+ <a href="[https://github.com/SangameshPK-2003/Flipkart-Add-To-Cart-Automation]" target="_blank">
+  <h3> 🛒 Flipkart Add-To-Cart Automation </h3>
+  </a>
+
 - Selenium + TestNG + Page Object Model  
 - Includes **manual test cases & defect report**
 
