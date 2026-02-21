@@ -52,17 +52,17 @@
 
 ## 🚀 Featured Projects
 
- <a href="[https://github.com/SangameshPK-2003/Flipkart-Add-To-Cart-Automation]" target="_blank">
-  <h3> 🛒 Flipkart Add-To-Cart Automation </h3>
-  </a>
+### 🛒 [Flipkart Add-To-Cart Automation](https://github.com/SangameshPK-2003/Flipkart-Add-To-Cart-Automation)
 
 - Selenium + TestNG + Page Object Model  
 - Includes **manual test cases & defect report**
 
-### 🎭 Playwright Python Automation Suite
-- End-to-end UI automation  
-- Fixtures, assertions, HTML reporting  
+---
 
+### 🎭 [Playwright Python Automation Suite](https://github.com/SangameshPK-2003/Playwright_Python_Learning)
+
+- End-to-end UI automation  
+- Fixtures, assertions, HTML reporting
 ---
 
 ## 🌐 Connect With Me
