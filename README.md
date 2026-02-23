@@ -63,6 +63,7 @@
 
 - End-to-end UI automation  
 - Fixtures, assertions, HTML reporting
+
 ---
 
 ## 🌐 Connect With Me
